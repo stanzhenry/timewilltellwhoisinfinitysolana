@@ -282,19 +282,19 @@ body {
 
 .explore-tabs button {
     border: none;
-    color: #0d6efd;
+    color: #ffc107;;
     border-radius: 8px;
     font-size: 13px;
     background: #e8f1ff
 }
 
 .explore-tabs button:hover {
-    background: #0d6efd;
+    background: #ffc107;;
     color: #fff
 }
 
 .explore-tabs button.active {
-    background: #0d6efd;
+    background: #ffc107;;
     color: #fff
 }
 
@@ -365,7 +365,7 @@ body {
 }
 
 .help-tabs button.active {
-    background-color: #0d6efd;
+    background-color: #ffc107;;
     color: #fff
 }
 
@@ -389,7 +389,7 @@ body {
 
 .auther-tabs button {
     border: none;
-    color: #0d6efd;
+    color: #ffc107;;
     border-radius: 8px;
     font-size: 13px;
     background: #fff;
@@ -398,12 +398,12 @@ body {
 }
 
 .auther-tabs button:hover {
-    background: #0d6efd;
+    background: #ffc107;;
     color: #fff
 }
 
 .auther-tabs button.active {
-    background: #0d6efd;
+    background: #ffc107;;
     color: #fff
 }
 
@@ -430,7 +430,7 @@ body {
     height: 40px;
     min-height: 40px !important;
     display: flex;
-    color: #0d6efd;
+    color: #ffc107;;
     align-items: center;
     justify-content: center
 }
